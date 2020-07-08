@@ -1,0 +1,8 @@
+com/eatza/order/controller/JwtControllerTest.class
+com/eatza/order/configuration/SwaggerDocketConfigurationTest.class
+com/eatza/order/service/JwtAuthenticationServiceTest.class
+com/eatza/order/OrderingserviceApplicationTests.class
+com/eatza/order/service/OrderServiceTest.class
+com/eatza/order/configuration/RestTemplateConfigurationTest.class
+com/eatza/order/controller/OrderControllerTest.class
+com/eatza/order/service/ItemServiceTest.class

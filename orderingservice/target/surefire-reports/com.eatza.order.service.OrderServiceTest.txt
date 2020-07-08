@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.eatza.order.service.OrderServiceTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.715 s <<< FAILURE! - in com.eatza.order.service.OrderServiceTest
+placeOrder_basic(com.eatza.order.service.OrderServiceTest)  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.eatza.order.service.OrderServiceTest.placeOrder_basic(OrderServiceTest.java:96)
+
